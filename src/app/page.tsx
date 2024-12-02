@@ -65,6 +65,7 @@ const ItemsPage = () => {
       </div>
     </div>
   );
+  
 };
 
 export default ItemsPage;
